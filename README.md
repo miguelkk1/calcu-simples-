@@ -1,2 +1,2 @@
-Caso queira testar a calculadora é só entrar no https://replit.com/@koiunn36/calcu-simples-?v=1.
+Caso queira testar a calculadora é só entrar no https://colab.research.google.com/drive/1LipK4MCJRWriloKhsJxzyN9kDaWEl9Ty?usp=sharing.
 Muito obrigado pela atenção.
