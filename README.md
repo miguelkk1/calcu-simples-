@@ -1,2 +1,2 @@
-Caso queira testar a calculadora é só entrar no https://colab.research.google.com/drive/1LipK4MCJRWriloKhsJxzyN9kDaWEl9Ty?usp=sharing.
+Caso queira testar a calculadora é só entrar no http://bit.ly/4m1PAwQ
 Muito obrigado pela atenção.
